@@ -23,7 +23,7 @@ Welcome to _Forecast Application_!
 * Database (currently using H2)
   * Credentials shouldn't be in the application.properties.
 * Unit tests
-  * Test getMetricsByStatisticWhenStatisticNameIsInvalidFails() is failing. Application works, but having problems to simulate the same in Unit test.
+  * Test getMetricsByStatisticWhenStatisticNameIsInvalidFails() is failing. Application works, but filtering is having some issue.
   
 
 ## Tech Stack
